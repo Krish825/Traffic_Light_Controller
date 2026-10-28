@@ -1,0 +1,9 @@
+
+# Generated simulation files
+*.vcd
+*.vvp
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
